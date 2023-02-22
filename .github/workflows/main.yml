@@ -1,7 +1,11 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
+ 
 name: Generate Snake
+ run: echo "{name}={value}" >> $GITHUB_STATE
 
+- name: Set output
+  run: echo "{name}={value}" >> $GITHUB_OUTPUT
 # Controls when the action will run. This action runs every 6 hours.
 
 on:
@@ -29,7 +33,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: mishmanners
+          github_user_name: tarkanbattal1071
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
