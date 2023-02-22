@@ -29,6 +29,13 @@ Skills: VUE JS / REACT / JS / HTML / CSS / C / C++ /JAVA
 ![Profile views](https://gpvc.arturio.dev/tarkanbattal1071)  
 
 ![](https://github.com/tarkanbattal1071/tarkanbattal1071/raw/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 
 </td></tr></table>  
