@@ -29,11 +29,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / C / C++ /JAVA
 ![Profile views](https://gpvc.arturio.dev/tarkanbattal1071)  
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarkanbattal1071/tarkanbattal1071/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarkanbattal1071/tarkanbattal1071/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tarkanbattal1071/tarkanbattal1071/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 
 
