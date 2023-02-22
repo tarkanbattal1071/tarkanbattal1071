@@ -27,3 +27,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / C / C++ /JAVA
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=tarkanbattal1071)  
 
 ![Profile views](https://gpvc.arturio.dev/tarkanbattal1071)  
+
+</td></tr></table>  
+
+<br/>  
