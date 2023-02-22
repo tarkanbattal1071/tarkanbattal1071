@@ -1,11 +1,11 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
  
-name: Generate Snake
- run: echo "{name}={value}" >> $GITHUB_STATE
+-name: Generate Snake
+run: echo "{name}={value}" >> $GITHUB_STATE
 
-- name: Set output
-  run: echo "{name}={value}" >> $GITHUB_OUTPUT
+-name: Set output
+ run: echo "{name}={value}" >> $GITHUB_OUTPUT
 # Controls when the action will run. This action runs every 6 hours.
 
 on:
