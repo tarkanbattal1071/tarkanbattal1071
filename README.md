@@ -28,6 +28,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS / C / C++ /JAVA
 
 ![Profile views](https://gpvc.arturio.dev/tarkanbattal1071)  
 
-</td></tr></table>  
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+</td></tr></table>  
+
 <br/>  
