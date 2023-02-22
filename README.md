@@ -2,6 +2,7 @@
 #### I am a student of Computer Engineering
 I am 27 years old.
 I am still studying at university.
+
 Open source :octocat:
 
 Skills: VUE JS / REACT / JS / HTML / CSS / C / C++ /JAVA
@@ -20,8 +21,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / C / C++ /JAVA
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarkanbattal1071)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tarkanbattal1071&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tarkanbattal1071)  
 
 ![GitHub metrics](https://metrics.lecoq.io/tarkanbattal1071)  
 
